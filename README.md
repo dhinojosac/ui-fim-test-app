@@ -3,7 +3,7 @@
 
 This application is thinking to be used by the occupational therapists for evaluate the functional status of patients throughout the rehabilitation process.
 
-![Screenshot](_examples/opengl3_example/screenshot.png)
+![Screenshot](https://github.com/dhinojosac/ui-fim-test-app/blob/master/screenshot.png)
 
 ### Installation
 - [Windows Users] Download file [ui-fim-app.rar](https://github.com/dhinojosac/ui-fim-test-app/blob/master/ui-fim-app.rar) and unzip the file  ui-fim-app.exe in your desktop.
